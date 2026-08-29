@@ -1,0 +1,13 @@
+img{
+    flex-grow: 1;
+    height: auto;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: black;
+    box-sizing: border-box;
+}

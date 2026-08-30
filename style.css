@@ -8,6 +8,10 @@ img{
 }
 
 nav{
-    background-color: black;
+    background-color: blue;
     box-sizing: border-box;
+}
+nav a {
+    padding: 10px, 5px;
+    color: white;
 }

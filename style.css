@@ -3,6 +3,10 @@ img{
     height: auto;
 }
 
+h1{
+    color: green;
+}
+
 *{
     box-sizing: border-box;
 }
@@ -12,6 +16,12 @@ nav{
     box-sizing: border-box;
 }
 nav a {
-    padding: 10px, 5px;
+    justify-content: space-between;
+    padding: 10px, 20px;
     color: white;
+}
+
+.riche {
+    display: flex;
+    flex-wrap: nowrap;
 }

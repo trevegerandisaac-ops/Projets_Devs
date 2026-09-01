@@ -16,12 +16,16 @@ nav{
     box-sizing: border-box;
 }
 nav a {
-    justify-content: space-between;
     padding: 10px, 20px;
     color: white;
 }
 
 .riche {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.contact-images{
     display: flex;
     flex-wrap: nowrap;
 }

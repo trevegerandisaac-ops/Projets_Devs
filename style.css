@@ -12,12 +12,16 @@ h1{
 }
 
 nav{
+    display: flex;
+    justify-content: space-evenly;
     background-color: blue;
     box-sizing: border-box;
+    padding: 100 px;
 }
 nav a {
     padding: 10px, 20px;
     color: white;
+    text-decoration: none;
 }
 
 .riche {
